@@ -1,1 +1,6 @@
 Git is amazing but looks very complex initially:-)
+
+Pros:
+
+1. Git is brand new
+2. It is distributed
