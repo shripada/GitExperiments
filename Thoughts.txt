@@ -4,3 +4,4 @@ Pros:
 
 1. Git is brand new
 2. It is distributed
+3. Users can continue to work offline by committing/branching changes locally.
